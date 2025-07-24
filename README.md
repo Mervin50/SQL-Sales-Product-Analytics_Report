@@ -1,7 +1,21 @@
 # SQL-Sales-Product-Analytics_Report
 
+Create Database and Schemas
 
-Product Report
+Script Purpose:
+    This script creates a new database named 'DataWarehouseAnalytics' after checking if it already exists. 
+    If the database exists, it is dropped and recreated. Additionally, this script creates a schema called gold.
+
+
+
+
+
+
+
+
+
+
+1: Product Report
 
 Purpose:
     - This report consolidates key product metrics and behaviors.
