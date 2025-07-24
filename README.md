@@ -1,9 +1,8 @@
 # SQL-Sales-Product-Analytics_Report
 
-/*
-===============================================================================
+
 Product Report
-===============================================================================
+
 Purpose:
     - This report consolidates key product metrics and behaviors.
 
@@ -20,8 +19,7 @@ Highlights:
        - recency (months since last sale)
        - average order revenue (AOR)
        - average monthly revenue
-===============================================================================
-*/
+
 
 <img width="1587" height="313" alt="imaGE DE" src="https://github.com/user-attachments/assets/edab7be5-6b79-42ee-a0a8-64ad51024380" />
 
