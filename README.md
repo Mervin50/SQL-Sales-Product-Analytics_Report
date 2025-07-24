@@ -1,10 +1,35 @@
 # SQL-Sales-Product-Analytics_Report
 
-Create Database and Schemas
+1) Create the 'DataWarehouseAnalytics' database
 
-Script Purpose:
-    This script creates a new database named 'DataWarehouseAnalytics' after checking if it already exists. 
-    If the database exists, it is dropped and recreated. Additionally, this script creates a schema called gold.
+2) Create Gold Schema
+   
+3) Create dimensions of customers table, product table and sales table.
+
+4) Bulk insert into above tables
+
+5) Change over time
+
+-- Analyze sales performance over time
+
+<img width="476" height="335" alt="imaGE DE" src="https://github.com/user-attachments/assets/b70d4b45-54b4-47c4-a3cc-41fc3023e8fc" />
+
+
+-- Analyze sales performance over time by month
+
+<img width="410" height="328" alt="imaGE DE" src="https://github.com/user-attachments/assets/6bc397fc-b626-49a9-904c-db096dcfe7d4" />
+
+
+-- Analyze sales performance over time as per year
+
+<img width="401" height="147" alt="imaGE DE" src="https://github.com/user-attachments/assets/3df38693-cd19-422c-99db-7e6d64cdab01" />
+
+6) CUMULATIVE ANALYSIS
+   
+--Calculate the total sales per month and the running total of sales over time by month
+
+<img width="322" height="338" alt="image" src="https://github.com/user-attachments/assets/fdf8b62c-7db0-45bf-976b-704f64a145e1" />
+
 
 
 
