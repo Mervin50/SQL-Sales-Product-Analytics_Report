@@ -1,5 +1,8 @@
 # SQL-Sales-Product-Analytics_Report
 
+![Picture1](https://github.com/user-attachments/assets/812e5fc6-d697-4b46-9362-f4695ec0c033)
+
+
 1) Create the 'DataWarehouseAnalytics' database
 
 2) Create Gold Schema
